@@ -52,7 +52,7 @@ SSMS 17.X ist die größte Generation von *SQL Server Management Studio* und ste
 **[![Download](../ssdt/media/download.png) Upgradepaket für SQL Server Management Studio 17.6 (Upgrades 17.x bis 17.6) herunterladen](https://go.microsoft.com/fwlink/?linkid=870041)**
 
 > [!WARNING]
-> Es gibt ein bekanntes Problem, bei dem SSMS 17.6 instabil wird und abstürzt, wenn [Wartungspläne](../relational-databases/maintenance-plans/maintenance-plans.md) verwendet werden. Wenn Sie Wartungspläne verwenden, installieren Sie nicht SSMS 17.6. Führen Sie ein Downgrade auf SSMS 17.5 durch, falls Sie bereits 17.6 installiert haben und von diesem Problem betroffen sind. 
+> Es gibt ein bekanntes Problem, bei dem SSMS 17.6. Das SSMS 17.6 wird instabil und stürzt ab, wenn [Wartungspläne](../relational-databases/maintenance-plans/maintenance-plans.md) verwendet werden. Wenn Sie Wartungspläne verwenden, installieren Sie biite nicht SSMS 17.6. Falls Sie bereits 17.6 installiert haben und von diesem Problem betroffen sind, führen Sie ein Downgrade auf SSMS 17.5 durch.
 
 **Versionsinformationen**
 
